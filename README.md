@@ -1,4 +1,0 @@
-# FirstAndroidBasicApp
-
-
-initial commit 
